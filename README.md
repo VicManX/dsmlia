@@ -9,6 +9,7 @@ los apuntes, las tareas, los datos y el código reutilizable del curso.
 - [Sesiones y apuntes](sessions/)
 - [Tareas](assignments/)
 - [Datos](data/)
+- [Guías de ayuda](help/)
 
 ## Seguimiento del curso
 
@@ -26,6 +27,7 @@ dsmlia/
 ├── sessions/    # Material y apuntes organizados por semana
 ├── assignments/ # Una carpeta autocontenida por cada entrega
 ├── data/        # Datos originales, procesados y muestras pequeñas
+├── help/        # Guías de trabajo y referencia
 ├── src/         # Código reutilizable entre sesiones y tareas
 └── tests/       # Pruebas para el código reutilizable
 ```
