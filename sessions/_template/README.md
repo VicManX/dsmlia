@@ -12,9 +12,9 @@
 
 Por completar.
 
-## Actividades y notebooks
+## Desarrollo
 
-- Por completar.
+Los ejemplos y las prácticas se encuentran en `main.ipynb`.
 
 ## Dudas o pendientes
 

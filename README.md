@@ -3,7 +3,7 @@
 Repositorio de trabajo para el curso de DSMLIA. Reúne las sesiones de clase,
 los apuntes, las tareas, los datos y el código reutilizable del curso.
 
-## Acceso rapido
+## Acceso rápido
 
 - [Información del curso](course/)
 - [Sesiones y apuntes](sessions/)
@@ -37,8 +37,8 @@ Las carpetas de cada semana y tarea se crean solo cuando sean necesarias. En
 
 - Usar nombres en minúsculas, sin espacios ni tildes.
 - Numerar con cero inicial: `week_01`, `assignment_01`.
-- Nombrar notebooks en el orden esperado: `01_clase.ipynb`,
-  `02_practica.ipynb`.
+- Usar `main.ipynb` como notebook principal de cada semana o tarea.
+- Crear notebooks adicionales solo cuando el trabajo realmente lo requiera.
 - Conservar los datos originales sin modificaciones en `data/raw/`.
 - Llevar a `src/` solo el código que sea realmente reutilizable.
 - No guardar credenciales, archivos `.env`, entornos virtuales ni datos grandes
@@ -48,7 +48,7 @@ Las carpetas de cada semana y tarea se crean solo cuando sean necesarias. En
 
 1. Copiar `sessions/_template/` como `sessions/week_XX/`.
 2. Registrar el tema y los apuntes de la semana en su `README.md`.
-3. Guardar demostraciones y prácticas como notebooks numerados.
+3. Desarrollar los ejemplos y prácticas de la semana en `main.ipynb`.
 4. Si hay una entrega, copiar `assignments/_template/` como
    `assignments/assignment_XX_name/`.
 5. Actualizar la tabla de seguimiento de este archivo.

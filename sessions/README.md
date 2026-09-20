@@ -7,13 +7,14 @@ sessions/
 ├── _template/
 └── week_01/
     ├── README.md
-    ├── 01_clase.ipynb
-    ├── 02_practica.ipynb
-    └── resources/
+    ├── main.ipynb
+    └── figures/
 ```
 
-El `README.md` semanal sirve como resumen y puede contener apuntes breves. Si
-los apuntes crecen demasiado, se pueden separar después en `notas.md`.
+Esta es la estructura inicial para una semana: el `README.md` sirve como
+resumen y contiene los apuntes breves, `main.ipynb` reúne los ejemplos y las
+prácticas, y las gráficas exportadas se guardan en `figures/`.
 
-Para iniciar una semana, copiar `_template/`, renombrar la copia y completar
-su contenido.
+Para iniciar una semana, copiar `_template/`, renombrar la copia como
+`week_XX/` y completar su contenido. Los archivos o subdirectorios adicionales
+solo se agregan cuando la semana realmente los necesite.
