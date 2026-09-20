@@ -9,6 +9,8 @@ documentos están pensados para consultarse y ejecutarse paso a paso.
    autenticación, creación del repositorio remoto y primer `push`.
 2. [Flujo semanal con Git](02_weekly_git_workflow.md): branches, commits, pull
    requests, merges y tags para las sesiones del curso.
+3. [Ejecutar Northwind con DBeaver y SQL Server](03_run_northwind_with_dbeaver.md):
+   conexión al motor, ejecución del script y comprobación de la base creada.
 
 ## Convenciones
 
